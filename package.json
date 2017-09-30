@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "vega-dataflow": "3",
-    "vega-scenegraph": "2",
+    "vega-scenegraph": "https://github.com/abudaan/vega-scenegraph",
     "vega-util": "1"
   },
   "devDependencies": {
